@@ -77,7 +77,7 @@ print(get_total_consumption([a, b]))
 
 
 
-#Задание 2
+#Задание 3
 
 class Cell:
     def __init__(self, piece):
